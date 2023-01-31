@@ -1,11 +1,14 @@
+<p align="center">
+  <img width="640" height="360" src="https://github.com/natalyabarnum/natalyabarnum/blob/main/csm%20dancing.gif">
+</p>
 <div align = 'center'>
-![](https://github.com/natalyabarnum/natalyabarnum/blob/main/csm%20dancing.gif)
   <h2> Hi! I'm Natalya ✧ </h2>
 <h3> I'm a data analyst from Las Vegas </h3>
   <p> I have a passion for using data to drive decision-making and discover insights. With my strong analytical and technical skills, I am able to turn data into functional information for businesses and organizations. I am also slightly obsessed with films and anime. </p>
  </div>
  
- <li> 💟 I'm currently learning <b> Python, SQL, and Software Engineering </li>
+ <li> 💟 I'm currently learning <b> Python, SQL, and Software Engineering </b> </li>
+ <li> 💕 
   
   
 <!--
