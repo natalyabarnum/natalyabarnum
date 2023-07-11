@@ -18,7 +18,7 @@
  <h2> My Kit ✭</h2>
  </div>
  
- <img width="50" height="50" src="https://github.com/natalyabarnum/natalyabarnum/blob/main/sql.png"/> <img width="50" height="50" src="https://github.com/natalyabarnum/natalyabarnum/blob/main/python.png"/>
+ <img width="50" height="50" src="https://github.com/natalyabarnum/natalyabarnum/blob/main/sql.png"/> <img width="50" height="50" src="https://github.com/natalyabarnum/natalyabarnum/blob/main/python.png"/> <img width="50" height="50" src="https://github.com/natalyabarnum/natalyabarnum/blob/main/python.png"/>
  
  
  <h3> Stats </h3>
