@@ -24,5 +24,3 @@
  <h3> Stats </h3>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalyabarnum&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalyabarnum&theme=dracula)
